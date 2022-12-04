@@ -1,0 +1,33 @@
+section#whats-new {
+    color: #000;
+    padding: {
+        top: 50px;
+        left: 130px;
+    };
+}
+
+.new {
+    padding: {
+        top: 60px;
+        bottom: 36px;
+    };
+    column-gap: 620px;
+    font-size: 1rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+}
+
+.new-h {
+    color: $darkblue;
+}
+
+.new-btn {
+    // margin-right: 0;
+    text-align: center;
+    // padding-right: 10px;
+}
+
+.new-p {
+    color: $natural2;
+}

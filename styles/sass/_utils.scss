@@ -1,0 +1,99 @@
+.flex {
+    display: flex;
+}
+
+.align-start {
+    align-items: flex-start;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.align-strecht {
+    align-items: stretch;
+}
+
+.align-end {
+    align-items: flex-end;
+}
+
+.justify-start {
+    justify-content: flex-start;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-around {
+    justify-content: space-around;
+}
+
+.justify-evenly {
+    justify-content: space-evenly;
+}
+
+.justify-end {
+    justify-content: flex-end;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.row-reverse {
+    flex-direction: row-reverse;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.column-reverse {
+    flex-direction: column-reverse;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.nowrap {
+    flex-wrap: nowrap;
+}
+
+.wrap-reverse {
+    flex-wrap: wrap-reverse;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}

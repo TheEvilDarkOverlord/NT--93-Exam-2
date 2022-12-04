@@ -1,0 +1,17 @@
+section#partners {
+    margin: 0 auto;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 130px;
+    gap: 15px;
+}
+
+#partners ul {
+    column-gap: 3rem;
+    font-size: 1rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+}

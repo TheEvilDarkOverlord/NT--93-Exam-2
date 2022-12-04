@@ -1,0 +1,38 @@
+.intro {
+    background-color: $monyellow;
+    border-radius: 0 0 40px 40px;
+    padding: {
+        top: 50px;
+        // left: 130px;
+    };
+    height: 675px;
+}
+
+.intro-showcase {
+    position: absolute;
+    color: $darkblue3;
+    width: 540px;
+    text-align: justify;
+    padding-top: 50px;
+}
+
+.intro-text{
+    padding: {
+        top: 50px;
+        bottom: 50px;
+    };
+}
+
+.intro-btn{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+.intro-img {
+    position: absolute;
+    width: 944px;
+    height: 695px;
+    left: 530px;
+    top: 84px;
+}

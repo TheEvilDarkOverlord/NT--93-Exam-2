@@ -1,0 +1,42 @@
+section#explore {
+    color: #000;
+    padding: {
+        top: 50px;
+        left: 130px;
+    };
+}
+
+.explore {
+    background-color: $monyellow;
+    width: 1200px;
+    height: 380px;
+    border-radius: 20px;
+    padding: {
+        top: 60px;
+        bottom: 36px;
+    };
+    column-gap: 620px;
+    font-size: 1rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+}
+
+.explore-img {
+    position: absolute;
+    left: 150px;
+}
+
+.explore-head {
+    color: $darkblue;
+    padding: {
+        bottom: 36px;
+    };
+}
+
+.explore-content {
+    // position: absolute;
+    width: 540px;
+    text-align: right;
+    left: 700px;
+}

@@ -1,0 +1,58 @@
+.button {
+    all: unset;
+    display: inline-block;
+    background-color: $darkblue;
+    color: $natural6;
+    border-radius: 57px;
+    width: 203px;
+    height: 44px;
+    text-align: center;
+
+    &:hover {
+        opacity: 0.9;
+    }
+
+    &:active {
+        opacity: 0.7;
+    }
+}
+
+.button2 {
+    all: unset;
+    display: inline-block;
+    color: $darkblue;
+    border: 2px solid $darkblue;
+    border-radius: 57px;
+    width: 201px;
+    height: 42px;
+    text-align: center;
+
+    &:hover {
+        opacity: 0.9;
+        color: $natural3;
+    }
+
+    &:active {
+        opacity: 0.7;
+    }
+}
+
+.product-btn {
+    all: unset;
+    background: $monyellow1;
+    display: inline-block;
+    color: $darkblue;
+    border: 2px solid $darkblue;
+    border-radius: 8px;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+
+    &:hover {
+        opacity: 0.9;
+    }
+
+    &:active {
+        opacity: 0.7;
+    }
+}
